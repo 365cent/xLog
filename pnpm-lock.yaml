@@ -233,8 +233,8 @@ dependencies:
     specifier: ^1.1.0
     version: 1.1.0
   react-virtuoso:
-    specifier: 4.3.2
-    version: 4.3.2(react-dom@18.2.0)(react@18.2.0)
+    specifier: 4.3.5
+    version: 4.3.5(react-dom@18.2.0)(react@18.2.0)
   refractor:
     specifier: 4.8.1
     version: 4.8.1
@@ -11823,8 +11823,8 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /react-virtuoso@4.3.2(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-n51V4fMk36VM6NapfaMbfs4w/IaVodp5asp+rtzlvz0yurG6uVrqA040ke43gpYtoOL6j6TxeXWo4b6GpO9N0A==}
+  /react-virtuoso@4.3.5(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-MdWzmM9d8Gt5YGPIgGzRoqnYygTsriWlZrq+SqxphJTiiHs9cffnjf2Beo3SA3wRYzQJD8FI2HXtN5ACWzPFbQ==}
     engines: {node: '>=10'}
     peerDependencies:
       react: '>=16 || >=17 || >= 18'
